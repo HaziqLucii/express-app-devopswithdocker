@@ -1,4 +1,4 @@
-This is a project from devopswithdockeruh (https://github.com/HaziqLucii/devopswithdocker-materials).
+This is a project from devopswithdockeruh (https://github.com/docker-hy/material-applications).
 
 I used for study purpose to demonstrate the github actions to redeploy to fly.io everytime I pushed new code.
 
